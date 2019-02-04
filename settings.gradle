@@ -1,0 +1,4 @@
+rootProject.name = 'timetracker'
+include 'timetracker.main'
+include 'timetracker.db'
+
